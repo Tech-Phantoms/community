@@ -14,13 +14,18 @@ body:
     id: discordname
     attributes:
       label: Discord Username (if applicable)
-      placeholder: Insert your Discord username here (if applicable)
+      placeholder: Abir#9774
     validations:
       required: false
   - type: textarea
     id: Additional
     attributes:
       label: Additional Context
-      description: Where did you meet Tech Phantoms? What do you like about this community? Why do you want to join?
+      description: Why do you want to join Tech Phantoms? What stuff you are excited to learn or build at Tech Phantoms?
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        Join our Discord community [here](https://discord.gg/PVwmdgma) to get involved and talk with our community!
+        We also have other amazing repositories! Check them out [here](https://github.com/Tech-Phantoms).

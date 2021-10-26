@@ -15,13 +15,16 @@ jobs:
           comment: |
           <div align="center">
           <img src="https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif">
+          <br>
           <h1>Welcome To Tech Phantoms 🎉</h1>
           </div>
           <br>
+
           > Invitation sent to join the GitHub Organization, check your mail to accept the Invitation! 🤖
 
           ## About Us
-          Tech Phantoms is a open source community run by students, together we work on cool project organize organize hackathons and also help and support new people in tech 🚀. 
+          Tech Phantoms is a open source community run by students, together we work on cool project organize organize hackathons and also help and support new people in tech 🚀.
+
           Check out our [twitter](https://twitter.com/tech_phantoms) and [discord](https://discord.gg/PVwmdgma) to get involved with us. 
 
         env:

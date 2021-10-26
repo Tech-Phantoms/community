@@ -12,6 +12,17 @@ jobs:
           organization: Tech-Phantoms
           label: github-invitation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          comment: "![welcome-hello](https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif)<br><b>Invitation sent to join the GitHub Organization. Welcome to Tech Phantoms! 🎉</b><br><br>Check your mail to accept the invitation! 🤖<br><h1>About us</h1>For a long time, we have struggled to define Tech Phantom's niche, we have jumped from a community to a product or something in between. After all this time I think we will stick with the community where we will build some cool stuff for the community organize hackathons and also help and support new people in tech 🚀 Check our Twitter and Discord to get involved with us ✨ https://twitter.com/tech_phantoms https://discord.gg/PVwmdgma"
+          comment: |
+          <div align="center">
+          <img src="https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif">
+          <h1>Welcome To Tech Phantoms 🎉</h1>
+          </div>
+          <br>
+          > Invitation sent to join the GitHub Organization, check your mail to accept the Invitation! 🤖
+
+          ## About Us
+          Tech Phantoms is a open source community run by students, together we work on cool project organize organize hackathons and also help and support new people in tech 🚀. 
+          Check out our [twitter](https://twitter.com/tech_phantoms) and [discord](https://discord.gg/PVwmdgma) to get involved with us. 
+
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}

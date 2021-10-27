@@ -25,7 +25,7 @@ jobs:
           ## About Us
           Tech Phantoms is a open source community run by students, together we work on cool project organize organize hackathons and also help and support new people in tech 🚀.
 
-          Check out our [twitter](https://twitter.com/tech_phantoms) and [discord](https://discord.gg/PVwmdgma) to get involved with us. 
+          Check out our [Twitter](https://twitter.com/tech_phantoms) and [Discord](https://discord.apihacks.co) to get involved with us! 🚀
 
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}

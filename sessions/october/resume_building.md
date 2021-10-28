@@ -18,3 +18,15 @@
 ### Duration: 
   - 35 mins - 45 Mins
 
+### Speaker
+
+<table>
+  <tr>
+  <td>
+    <img src="https://avatars.githubusercontent.com/u/53480076?v=4" height="150px" width="150px"/>
+    </td>
+  </tr>
+  <tr>
+  Abir Pal [@imabp](https://github.com/imabp)
+  </tr>
+</table>

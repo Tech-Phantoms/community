@@ -27,6 +27,8 @@
     </td>
   </tr>
   <tr>
-  Abir Pal [@imabp](https://github.com/imabp)
-  </tr>
+    <td>
+  Abir Pal
+      <a href="https://github.com/imabp">@imabp </a>
+    </td>  </tr>
 </table>

@@ -1,0 +1,20 @@
+### Resume Building Session
+
+  - 📍 Venue: https://discord.apihacks.co
+  - ☑️ Date: Sunday, 31st October 2021
+  - 🕗 Time: 8 PM IST - 8:45 PM IST
+  - 🗓 [Add to Calendar](https://calendar.google.com/calendar/u/0/r/eventedit?text=Resume+Building+%7C+IST+ZONE+%7C+API+Hacks+Discord&location=https://discord.apihacks.co&dates=20211031T143000Z/20211031T151500Z)
+  - 📢 Voice Channel: https://discord.gg/2PgTgunT
+
+
+### Agenda
+
+  - Key points to building resume
+  - Keywords that matter
+  - Clarity of Language.
+  - Doubts
+
+
+### Duration: 
+  - 35 mins - 45 Mins
+

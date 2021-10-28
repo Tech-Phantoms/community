@@ -1,7 +1,7 @@
 name: Bug report
 description: Create a bug report to help us address errors in the repository
-title: "[BUG] <bug description>"
-labels: [bug]
+title: "[BUG] <description>"
+labels: ["type: bug"]
 body:
   - type: input
     id: bugdescription

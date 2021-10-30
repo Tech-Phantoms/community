@@ -1,0 +1,28 @@
+{
+  "name": "community",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">   <img src=\"https://github.com/iipranavii/community/blob/main/assets/banner1.png\" width=\"1000\" /> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Phantoms/community.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tech-Phantoms/community/issues"
+  },
+  "homepage": "https://github.com/Tech-Phantoms/community#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

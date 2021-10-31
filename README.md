@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/iipranavii/community/blob/main/assets/banner1.png?raw=true" width="80%" />
+  <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="80%" />
 </h1>
 
 <h3 align="center">

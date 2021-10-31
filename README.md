@@ -22,7 +22,7 @@ Tech Phantoms is an open source community run by students. We hang out to share 
 
 ## Join Tech Phantoms GitHub Organization
 
-Yeah you heard right we would love if you join our communtiy. To join **Tech Phantoms** fill in this [form](https://github.com/Tech-Phantoms/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and open an issue. We would love to have you in our Organizations.
+Yeah you heard right we would love if you join our communtiy. To join **Tech Phantoms** fill in this [issue](https://github.com/Tech-Phantoms/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) and open an issue. We would love to have you in our Organizations.
 
 ## How to use this repository
 

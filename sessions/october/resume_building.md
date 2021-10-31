@@ -38,3 +38,4 @@
 1. [Latex Template](https://github.com/Tech-Phantoms/community/blob/main/sessions/october/resume_building_resources/latex_template.tex)
 2. [Overleaf.com: To create PDF from Latex, and have clean resume design, Its Free for Personal use](https://overleaf.com)
 3. [Slides and Keywords](https://slides.com/abirpal-1/resume-building-session)
+4. [Fork This Repo, for one time setup.](https://github.com/imabp/resume)

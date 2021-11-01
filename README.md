@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🎉 Welcome to Tech Phantoms community repo 🎉
+🎉 Welcome to the community repository for Tech Phantoms 🎉
 </h3>
 
 <br>

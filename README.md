@@ -27,9 +27,9 @@ We hope to see you there! 😁
 
 Yeah, you heard right: we would love if you join our community! 🙌 To join **Tech Phantoms**, fill in this [issue](https://github.com/Tech-Phantoms/community/issues/new?assignees=&labels=github-invitation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) form and open it. After that, you should make your membership public so everyone can know you're part of **Tech Phantoms**!
 
-<h2 align="center"> ❓ How to use this repository </h2>
+<h2 align="center"> ❓ How to use this repository ❓ </h2>
 
-Since this is a community repository, this will not host any code. If you have issue or suggestions, consider opening an issue to let us know. You can hangout in our [GitHub discussions](https://github.com/Tech-Phantoms/community/discussions) and see what the communtiy is talking about, also feel free to open a thread if you have anything on your mind.
+Since this is a community repository, this will not host any code. If you have any suggestions or found any bug, consider opening an issue. You can hangout in our [GitHub discussions](https://github.com/Tech-Phantoms/community/discussions) and see what the communtiy is talking about. Feel free to open a thread if you have anything on your mind.
 
 This repository also holds our static assets. You can make a clone if you want to use it or use the GitHub link as a CDN (might get changed to lookout).
 

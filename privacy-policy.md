@@ -5,6 +5,7 @@ This Privacy Policy explains how information about you is collected, used, and d
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
 ## Collection of Information
+
 ### Information You Provide to Us
 
 We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, make a payment, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, payment method information and any other information you choose to provide.
@@ -30,6 +31,7 @@ We may use information about you for various purposes, including to:
 - Carry out any other purpose described to you at the time the information was collected.
 
 ## Sharing of Information
+
 We may share information about you as follows or as otherwise described in this Privacy Policy:
 - With hosts and organizers of a collective, if you are a contributor, or request reimbursement for expenses made in support, of that collective
 - We will share your name and image with GitHub if you participate in a collective that is also working on a software project through GitHub.
@@ -43,22 +45,26 @@ We may share information about you as follows or as otherwise described in this 
 - If you are unhappy with your information being processed, shared or stored in line with the content of this policy please email support@opencollective.com and we will work to remove public references to your activity on the site. Note that in order to maintain our accounting, tax and legal obligations we may be required to retain some private information about you once this process is complete.
 
 ## Social Sharing Features
+
 - The Services may offer social sharing features and other integrated tools, which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 - Analytics Services Provided by Others
 - We engage other companies to provide analytics services via the Services. These companies may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Open Collective and others to, among other things, analyze and track data, determine the popularity of certain content, and better understand how our services are being used.
 
 ## Security
+
 - Tech Phantoms Open Collective takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 - Transfer of Information to the U.S. and Other Countries
 - Tech Phantoms Open Collective is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing, transfer and storage of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.
 Your Choices
 
 ## Account Information
+
 - You may update the profile information you provide by logging into your online account.
 - Cookies
 - Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
 ## Promotional Communications
+
 - You may opt out of receiving promotional or notification emails from Tech Phantoms Open Collective by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
 
 ## GDPR Compliance
@@ -66,5 +72,6 @@ Your Choices
 - Tech Phantoms Open Collective is GDPR compliant. We are not in the business of selling data to any 3rd party. Our business model is to take a commission on the money raised by Collectives (like most other crowdfunding platforms). Companies that sponsors Collectives don't get access to private information. Only the admins of the Collective (core contributors) and of the organization that is legally hosting the Collectives (fiscal sponsor) get access to your email address. We don't store credit card information on our servers (we only store a token if you have decided to save it to your profile). We don’t store any passwords. Since our entire code base is open source, anyone can easily audit it.
 
 ## Contact Us
+
 If you have any questions about this Privacy Policy, please contact us at:
-techphantoms.oss@gmail.com
+techphantoms.20@gmail.com

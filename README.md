@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-<a href="https://discord.apihacks.co/"><img src="https://img.shields.io/discord/848276970851926036.svg?logo=discord&colorB=7289DA" /></a>
+<a href="https://discord.apihacks.co/"><img src="https://img.shields.io/discord/848276970851926036.svg?logo=discord&colorB=5865F2" /></a>
 <a href="https://twitter.com/tech_phantoms"><img src="https://img.shields.io/badge/Twitter-Tech%20Phantoms-blue?logo=twitter&logoColor=blue&color=blue"/></a>
 <a href="https://www.linkedin.com/company/techphantoms/"><img src="https://img.shields.io/badge/LinkedIn-Tech%20Phantoms-blue?logo=linkedin&logoColor=blue&color=darkcyan" /></a>
 <a href="https://www.instagram.com/tech_phantoms/"><img src="https://img.shields.io/badge/Instagram-Tech%20Phantoms-red?logo=instagram&logoColor=red&color=red" /></a>

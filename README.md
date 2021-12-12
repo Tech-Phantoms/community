@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tech-Phantoms/community/main/assets/banner1.png" width="80%" />
 </h1>

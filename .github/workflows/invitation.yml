@@ -30,8 +30,7 @@ jobs:
 
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
-      - name: Discord Notiofication 
+      - name: Discord Notification
         uses: wei/curl@master
         with:
-          args: -X POST -H "Content-Type:application/json" -d '{"content":"${{github.event.issue.user.login}} just joined our GitHub ORG"}' ${{ secrets.DISCORD_INVITATION }}
-          
+          args: -X POST -H "Content-Type:application/json" -d '{"content":"${{github.event.issue.user.login}} just joined our GitHub organization"}' ${{ secrets.DISCORD_INVITATION }}

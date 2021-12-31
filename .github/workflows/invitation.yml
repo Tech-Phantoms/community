@@ -6,6 +6,9 @@ jobs:
   automate_invite:
     runs-on: ubuntu-latest
     steps:
+      - name: testing
+        run: |
+          echo "Issue Tittle: ${{ toJson(github.event.issue) }}"
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:
@@ -30,3 +33,4 @@ jobs:
 
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
+          

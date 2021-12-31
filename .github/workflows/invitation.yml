@@ -10,7 +10,7 @@ jobs:
         uses: vj-abigo/invite-on-label@v1.2
         with:
           organization: Tech-Phantoms
-          label: github-invitation
+          label: invite me to organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: |
             <div align="center">
@@ -31,8 +31,7 @@ jobs:
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
       - name: Discord Notiofication 
-        uses: fateyan/action-discord-notifier@v1
+        uses: wei/curl@master
         with:
-          message-title: "[${{github.event.issue.user.login}}](${{github.issue.user.html_url}}) just joined our GitHub Org 🎉🎉"
-          webhook: ${{ secrets.DISCORD_INVITATION }}
+          args: -i -H "Accept:application/json" -H "Content-Type:application/json" -X POST --data '{"content":"[${{github.event.issue.user.login}}](${{github.event.issue.user.html_url}}) just opened an issue to join our GitHub ORG 🎉🎉"}' ${{ secrets.DISCORD_INVITATION }}
           

@@ -8,7 +8,7 @@ jobs:
     steps:
       - name: testing
         run: |
-          echo "Issue Tittle: ${{ toJson(github.event.issue) }}"
+          echo "Issue Tittle: ${{ github.event.issue.user.login }}"
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:

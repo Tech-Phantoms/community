@@ -33,6 +33,5 @@ jobs:
       - name: Discord Notiofication 
         uses: wei/curl@master
         with:
-          args: |
-            -X POST -H "Content-Type: application/json" -d '{"content": "${{github.event.issue.user.login}} just joined our GitHub ORG"}' ${{ secrets.DISCORD_INVITATION }}
+          args: -X POST -H "Content-Type:application/json" -d '{"content":"${{github.event.issue.user.login}} just joined our GitHub ORG"}' ${{ secrets.DISCORD_INVITATION }}
           

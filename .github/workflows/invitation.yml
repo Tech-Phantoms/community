@@ -6,9 +6,6 @@ jobs:
   automate_invite:
     runs-on: ubuntu-latest
     steps:
-      - name: testing
-        run: |
-          echo "Issue Tittle: ${{ github.event.issue.user.login }}"
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:
@@ -33,4 +30,9 @@ jobs:
 
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
+      - name: Discord Notiofication 
+        uses: fateyan/action-discord-notifier@v1
+        with:
+          message-title: "[${{github.event.issue.user.login}}](${{github.issue.user.html_url}}) just joined our GitHub Org 🎉🎉"
+          webhook: ${{ secrets.DISCORD_INVITATION }}
           

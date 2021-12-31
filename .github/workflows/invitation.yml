@@ -30,9 +30,8 @@ jobs:
 
         env:
           INVITE_TOKEN: ${{secrets.GOD_TOKEN}}
-      - name: Discord Notiofication 
-        uses: fateyan/action-discord-notifier@v1
+      - name: Discord Notification
+        uses: fateyan/action-discord-notifier@master
         with:
-          message-title: "[${{github.event.issue.user.login}}](${{github.issue.user.html_url}}) just joined our GitHub Org 🎉🎉"
+          message-title: "[${{github.event.issue.user.login}}](${{github.issue.user.html_url}}) joined our GitHub Organization 🎉"
           webhook: ${{ secrets.DISCORD_INVITATION }}
-          

@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Invite on label
-        uses: vj-abigo/invite-on-label@f5b7e2b27ba8aee08d53e851a8b2454b39e1136d
+        uses: vj-abigo/invite-on-label@latest
         with:
           organization: Tech-Phantoms
           label: github-invitation
